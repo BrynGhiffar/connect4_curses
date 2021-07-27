@@ -2,7 +2,7 @@
 
 **Finally you can play your favourite board game in the terminal...**
 
-![](/media/KATE/projects/python/connect4_curses/game_play_screenshot.png)
+![](./game_play_screenshot.png)
 
 **Dependencies:**
 
